@@ -11,8 +11,7 @@ Esta é uma aplicação simples feita em React como teste.
 Desenvolvido com ❤️ usando React.
 
 
----
-
+--------------------------------------------------
 Abaixo o tutorial em inglês do próprio React
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
