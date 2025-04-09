@@ -6,8 +6,22 @@ Esta é uma aplicação simples feita em React como teste.
 
 - Exibe uma mensagem: "Olá, mundo! Esta é minha primeira aplicação React 🎉"
 
-Abaixo o tutorial em inglês.
+---
 
+Desenvolvido com ❤️ usando React.
+
+---
+
+Open in StackBlitz
+
+Features
+🚀 Server-side rendering
+⚡️ Hot Module Replacement (HMR)
+📦 Asset bundling and optimization
+🔄 Data loading and mutations
+🔒 TypeScript by default
+🎉 TailwindCSS for styling
+📖 React Router docs
 Getting Started
 Installation
 Install the dependencies:
@@ -52,10 +66,5 @@ Make sure to deploy the output of npm run build
 Styling
 This template comes with Tailwind CSS already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
 
-Built with ❤️ using React Router.
 
-Quero tirar isso do meu github
 
----
-
-Desenvolvido com ❤️ usando React.
